@@ -16,4 +16,6 @@ It's an example of how to use the `csv` crate to handle CSV files and demonstrat
    git clone https://github.com:mehdijafarzadeh/rust_read_csv.git
    cd rust_read_csv
 
+   cargo run
+
    ```
